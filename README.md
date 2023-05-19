@@ -44,3 +44,6 @@ Remember to adapt the plan based on your team's capabilities, available resource
 
 Final Project presentation: 
 https://prezi.com/view/YJRcdo4OxErUPEk0wvAF/
+
+The development of the model in collaboration of Google Collab 
+https://colab.research.google.com/drive/1Xh3Icv4VtHNAOKNTNPIGHkunFw2mAKb8?usp=sharing
