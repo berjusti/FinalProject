@@ -40,3 +40,7 @@ Prepare presentation content: Summarize the key findings, insights, and visualiz
 Create slides or other visual aids: Develop visually appealing slides or other presentation materials to support the content. Use appropriate charts, graphs, or screenshots to illustrate the topics and demonstrate the API functionalities.
 Rehearse and refine: Practice the presentation with the team, seeking feedback and making improvements as needed. Ensure the presentation flows smoothly and effectively communicates the team's work.
 Remember to adapt the plan based on your team's capabilities, available resources, and specific requirements.
+
+
+Final Project presentation: 
+https://prezi.com/view/YJRcdo4OxErUPEk0wvAF/
