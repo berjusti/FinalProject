@@ -1,6 +1,6 @@
 # FinalProject
 
-The final project goal is to understand BERTopic in th deepest possible way. 
+The final project goal is to understand BERTopic and Sentiment Analysis
 
 
 
@@ -27,10 +27,10 @@ Topic analysis: Perform an in-depth analysis of each topic to gain insights into
 Visualize topics: Utilize data visualization techniques such as word clouds, bar charts, or heatmaps to present the topics and associated insights in an easily understandable format. This step helps in communicating the findings effectively.
 
 
-Day 4: API Development for GPT Integration
+Day 4: API Development for GPT Integration (an add on - MVP - generate suitable request)
 
 Design API specifications: Determine the desired functionality and endpoints for the API that will integrate with GPT.
-Develop the API: Implement the API using a suitable framework like Flask or Django. Define the necessary routes, request/response formats, and integrate the BERTopic model and GPT into the API endpoints. Ensure the API is well-documented and follows best practices.
+Develop the API, Define the necessary routes, request/response formats, and integrate the BERTopic model and GPT into the API endpoints. Ensure the API is well-documented and follows best practices.
 Test the API: Perform thorough testing of the API to ensure it functions correctly. Use sample inputs and evaluate the generated responses to verify the integration between BERTopic and GPT.
 
 
